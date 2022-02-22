@@ -1,2 +1,5 @@
-# dio-primeiro-desafio-github
-Desafio de projeto sobre Git/Github
+# Primeiro desafio de Git/Github da dio
+Repositório dos desafios e tarefas sugeridas pela Digital Innovation One (Dio)
+
+## Links Úteis
+https://www.dio.me
