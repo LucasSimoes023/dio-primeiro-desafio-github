@@ -1,0 +1,9 @@
+Sobre o Primeiro desafio:
+
+Realizando o primeiro desafio sugerido pela DIO.
+link para o site da Digital Innovation One: https://www.dio.me
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+link para download do git: https://git-scm.com/downloads
+
+
